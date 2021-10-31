@@ -1,0 +1,2 @@
+# fetchjson
+Practice for TypeScript
