@@ -14,11 +14,11 @@ let colors: string[] = ['red', 'green', 'blue'];
 let myNumbers: number[] = [1, 2, 3];
 let truths: boolean[] = [true, false, false];
 
-class Car {
+class Chicken {
 
 }
 
-let car: Car = new Car();
+let chicken: Chicken = new Chicken();
 
 // object literal
 let point: {x: number; y: number;} = {
